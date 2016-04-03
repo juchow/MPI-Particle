@@ -1,6 +1,6 @@
 # MPI-Particle
-IoT for audio projects using Particle Photon/Spark Core
-Firmware and Android dev code
+Firmware for audio projects using Particle Photon/Spark Core and 4D Systems uLCD-32PTU
+
 
 v.01 (3/13/16) - Code for KG I2C digital attenuators balanced operation, used with Spark Core MCU interfaced with 4D Systems uLCD-32PTU front end. No balance control, will be added in future version. Added timer interrupt library, which controls LED on D7 blinking. 
 
